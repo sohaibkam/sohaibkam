@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohaibkam
 - 👀 I’m interested in coding and web development...
-- 🌱 I’m currently a Student.
+- 🌱 I’m currently an Engineer at TCS.
 - 💞️ I’m looking for opportunities to grow and learn new things each day every day...
 - 📫 How to reach me , DM at https://www.linkedin.com/in/sohaibkm/ for contacting.
 
