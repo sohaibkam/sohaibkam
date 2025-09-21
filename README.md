@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sohaib Kamal</h1>
-<h3 align="center">Kubernetes, CI/CD, Cloud Automation Expert</h3>
+<h1 align="left">Hi 👋, I'm Sohaib Kamal</h1>
+<h3 align="left">Kubernetes, CI/CD, Cloud Automation Expert</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://media1.tenor.com/m/l54b4QxkuRUAAAAC/luffy-luffy-one-piece.gif" alt="Luffy GIF" width="250"/>
 </p>
 
