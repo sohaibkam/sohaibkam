@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Sohaib Kamal</h1>
-<h3 align="left">Cloud Data Engineer | Cloud Platforms | DevOps & SRE</h3>
+<h1 align="left">Hey, It'z Sohaib 🖖</h1>
+<h3 align="left">Cloud Data Engineer | DevSecOps Enthusiast</h3>
 
 <!-- ========================================================= -->
 <!-- MASTER LAYOUT TABLE -->
