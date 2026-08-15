@@ -9,7 +9,7 @@
   <li>🔭 I’m currently working in <strong>TCS as Cloud Data Engineer and experienced with DevOps</strong></li>
   <li>🌱 I’m currently upskilling on skills such as <strong>Databricks, Agentic AI and Kubernetes</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Implementing efficient & secure Data Pipelines and workflows</strong></li>
-  <li>🤝 I’m looking for help with <strong>Kubernetes Network Mesh and Policies</strong></li>
+  <li>🤝 I’m looking for similar minds to interact and build projects</strong></li>
   <li>💬 Collaborate with me on <strong>DataOps, DevSecOps and Innovations</strong></li>
   <li>📫 How to reach me <strong>mail: being.sohaib@gmail.com</strong></li>
   <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/sohaibkm/">from my LinkedIn Profile</a></li>
