@@ -1,18 +1,18 @@
 <h1 align="left">Hi 👋, I'm Sohaib Kamal</h1>
-<h3 align="left">Kubernetes, CI/CD, Cloud Automation Expert</h3>
+<h3 align="left">Cloud Data and DevOps Enthusiast</h3>
 
 <p align="left">
   <img src="https://media1.tenor.com/m/l54b4QxkuRUAAAAC/luffy-luffy-one-piece.gif" alt="Luffy GIF" width="250"/>
 </p>
 
 <ul>
-  <li>🔭 I’m currently working in <strong>TCS as DevOps Cloud Engineer</strong></li>
-  <li>🌱 I’m currently learning <strong>K8s Helm and GitHub Actions</strong></li>
-  <li>👯 I’m looking to collaborate on <strong>Implementing secure Pipelines</strong></li>
+  <li>🔭 I’m currently working in <strong>TCS as Cloud Data Engineer and experienced with DevOps</strong></li>
+  <li>🌱 I’m currently upskilling on skills such as <strong>Databricks, Agentic AI and Kubernetes</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>Implementing efficient & secure Data Pipelines and workflows</strong></li>
   <li>🤝 I’m looking for help with <strong>Kubernetes Network Mesh and Policies</strong></li>
-  <li>💬 Ask me about <strong>DevOps Technologies and Innovations</strong></li>
-  <li>📫 How to reach me <strong>being.sohaib@gmail.com</strong></li>
-  <li>📄 Know about my experiences <a href="#">from my LinkedIn Profile</a></li>
+  <li>💬 Collaborate with me on <strong>DataOps, DevSecOps and Innovations</strong></li>
+  <li>📫 How to reach me <strong>mail: being.sohaib@gmail.com</strong></li>
+  <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/sohaibkm/">from my LinkedIn Profile</a></li>
   <li>⚡ Fun fact <strong>Learning never Ends</strong></li>
 </ul>
 
